@@ -3,8 +3,10 @@ Je suis un ingénieur logiciel fullstack de Bordeaux
 - 🔭 Travail sur plusieurs projets frontend et backend en utilisant Symfony
 - 🌱 Apprentissage approfondi des modèles de conception 
 <br>
-### Connectez-vous avec moi
+## Connectez-vous avec moi
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" / >]( https://www.linkedin.com/in/julien-paillassa/ )
+
 <br> 
 <br>
 ## Expertise 
