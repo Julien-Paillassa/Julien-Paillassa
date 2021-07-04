@@ -1,8 +1,8 @@
 ### Hello World 👋 
-Je suis un jeune développeur web fullstack de Bordeaux
+Hi ! My name is Julien and I am a young fullstack web developer from Bordeaux
 
-- 🔭 Travail sur plusieurs projets frontend et backend en utilisant Symfony 5
-- 🌱 Apprentissage approfondi des modèles de conception
+- 🔭 Work on several frontend and backend projects using Symfony 5
+- 🌱 Deep learning of design patterns
 
 ## Connectez-vous avec moi
 
