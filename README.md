@@ -14,7 +14,7 @@ Hi ! My name is Julien and I am a young fullstack web developer from Bordeaux
 <br>
 ## Réalisation :
 <br>
-<p>Projet Quiz Wild Code School :</p><a href="https://tech-interview.couraillon.ovh/">Tech-Interview</a>
+<p>Projet Quiz Wild Code School : <a href="https://tech-interview.couraillon.ovh/">Tech-Interview</a></p>
 <br>
-<p>Projet E-commerce Wild Code School :</p><a href="https://gambin.co/">Gambin</a>
+<p>Projet E-commerce Wild Code School :<a href="https://gambin.co/">Gambin</a></p>
 
