@@ -14,6 +14,9 @@ Hi ! My name is Julien and I am a young fullstack web developer from Bordeaux
 <br>
 
 ## Realisations
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Gambin-E--Commerce-orange" />](https://tech-interview.couraillon.ovh/)
+
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/Gambin-E--Commerce-orange" />](https://www.linkedin.com/in/julien-paillassa/)
 <img align="left" alt="medium" src="https://img.shields.io/static/v1?label=<Tech-Interview>&message=<Quizz>&color=<orange>" />
 <img align="left" alt="medium" src="https://img.shields.io/endpoint?url=<URL>&style<STYLE>" />
 <p>Projet Quiz Wild Code School : <a href="https://tech-interview.couraillon.ovh/">Tech-Interview</a></p>
