@@ -15,6 +15,7 @@ Hi ! My name is Julien and I am a young fullstack web developer from Bordeaux
 
 ## Realisations
 <img align="left" alt="medium" src="https://img.shields.io/static/v1?label=<Tech-Interview>&message=<Quizz>&color=<orange>" />
+<img align="left" alt="medium" src="https://img.shields.io/endpoint?url=<URL>&style<STYLE>" />
 <p>Projet Quiz Wild Code School : <a href="https://tech-interview.couraillon.ovh/">Tech-Interview</a></p>
 <p>Projet E-commerce Wild Code School : <a href="https://gambin.co/">Gambin</a></p>
 
