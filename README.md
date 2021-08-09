@@ -14,4 +14,4 @@ Hi ! My name is Julien and I am a young fullstack web developer from Bordeaux
 <br>
 ## Réalisation :
 <br>
-<a href="https://tech-interview.couraillon.ovh/">- Tech-Interview</a>
+<a href="https://tech-interview.couraillon.ovh/">Tech-Interview</a>
